@@ -6,7 +6,7 @@ const BLOG_NAME = "MyBlog"; // 个人网站名字
 
 const BLOG_URL = "https://blog-test-psi-nine.vercel.app/"; // 个人网站链接（请填写完整链接）
 
-const GITHUB = "https://github.com/wangziyu0305"; // 右上角 Github 图标链接，留空不显示
+const GITHUB = "https://github.com/wangziyu01"; // 右上角 Github 图标链接，留空不显示
 
 const BACKGROUND_IMG_URL = "https://api.dujin.org/bing/1920.php"; // 背景图片url，默认为必应每日图片（第三方接口）
 
