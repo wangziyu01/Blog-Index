@@ -4,7 +4,7 @@ const HOST = "https://blog-test-psi-nine.vercel.app/"; // 线上服务器地址�
 
 const BLOG_NAME = "MyBlog"; // 个人网站名字
 
-const BLOG_URL = "https://blog.esunr.xyz"; // 个人网站链接（请填写完整链接）
+const BLOG_URL = "https://blog-test-psi-nine.vercel.app/"; // 个人网站链接（请填写完整链接）
 
 const GITHUB = "https://github.com/wangziyu0305"; // 右上角 Github 图标链接，留空不显示
 
@@ -45,7 +45,8 @@ const SLOGAN = [
   "不忘初心，一生浪漫",
   "最近还好吗？",
   "流星，落花，萤火",
-  "马车越空，晃荡越响"
+  "马车越空，晃荡越响",
+  "Welcome!"
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
