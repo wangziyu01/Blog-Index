@@ -11,8 +11,8 @@ const GITHUB = "https://github.com/wangziyu01"; // 右上角 Github 图标链接
 const BACKGROUND_IMG_URL = "https://api.dujin.org/bing/1920.php"; // 背景图片url，默认为必应每日图片（第三方接口）
 
 const SORT_DATA = [
-  { sortId: 1, title: "示例分类1" },
-  { sortId: 2, title: "示例分类2" }
+  { sortId: 1, title: "分类1" },
+  { sortId: 2, title: "分类2" }
 ]; // 网站分类列表，请按照API.md中'/getSort'接口中返回的data格式填写
 
 const RECORD_NUMBER = ""; // 网站备案号，留空不显示
